@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.13.1, 2020-09-29T18:12:12. -->
+<!-- Written by QtCreator 4.13.1, 2020-11-03T17:44:56. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -325,8 +325,9 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/Brian/Documents/CPSC254_GPA_Calculator/CPSC254_GPA_Calculator.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/Brian/Documents/CPSC254_GPA_Calculator/CPSC254_GPA_Calculator.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">CPSC254_GPA_Calculator2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/Brian/Documents/CPSC254_GPA_Calculator/CPSC254-GPA/CPSC254_GPA_Calculator.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/Brian/Documents/CPSC254_GPA_Calculator/CPSC254-GPA/CPSC254_GPA_Calculator.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>

@@ -23,6 +23,13 @@ MainWindow::MainWindow(QWidget *parent)
     QFont gpaTitleFont = ui->label_GPA_Title->font();
     gpaTitleFont.setPointSize(16);
     ui->label_GPA_Title->setFont(gpaTitleFont);
+
+    //set up gpa window
+    ui->lineEdit_GPA->resize(100,60);
+
+    //set main window to a fixed size
+    setFixedSize(750,470);
+
 }
 
 //************************************************
